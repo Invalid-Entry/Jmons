@@ -1,5 +1,8 @@
 {
     "jokes": {
         "enabled_channels": []
+    },
+    "reaction-hooks": {
+        
     }
 }
